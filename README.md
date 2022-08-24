@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingkolombo
-- 👀 I’m interested in web dev
+- 👀 MAD ON ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - 🌱 I’m currently learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - 💞️ I’m looking to collaborate on projects
