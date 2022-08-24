@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=11F7AA&multiline=true&width=1000&height=150&lines=Without+leaps+of+imagination%2C+or+dreaming%2C+we+lose+the+;+excitement+of+possibilities.;+Dreaming%2C+after+all%2C+is+a+form+of+planning)](https://git.io/typing-svg)
-- 👋 Hi, I’m @kingkolombo
+- 👋 Hi, I’m from Kenya
 
 - 👀 MAD ON ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - 🌱 Currently learning ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
